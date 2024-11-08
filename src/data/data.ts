@@ -50,3 +50,13 @@ export const socials = [
     name: "twitter",
   },
 ];
+
+export const heroDetails = {
+  bio: "Work for money and design for love! I'm Alice, an UI/UX Interaction Designer based in England",
+  location: "London, England",
+  PNO: "+44 1234567890",
+  services: ["Website Design", "UI/UX Development", "Graphic Design"],
+  YOR: "8+",
+  Clients: "80+",
+  Projects: "67",
+};
